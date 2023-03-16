@@ -132,12 +132,18 @@
     </tr>
 </table>	
 </div>
-<br/><br/>
+<br/>
 
 <div>
     <img align="left" width=433px src="https://github-readme-stats.vercel.app/api?username=Junhui0u0&show_icons=true&theme=gruvbox"> 
     <a href="https://solved.ac/wnsgml7479">  
       <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsgml7479">
     </a>
-</div>
+</div><br/><br/>
+
+
+<h4>📬 Contacts 📬</h4>
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qaz74792@gmail.com)](mailto:qaz74792@gmail.com)
+<a href="https://junny00.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-369F36?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"></a>
 </div>
