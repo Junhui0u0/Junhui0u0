@@ -1,4 +1,3 @@
-## Hi 👋
 </br>
 </br>
 <p align="center"><img src="https://avatars.githubusercontent.com/u/71383600?v=4" width="300" height="300"></p>
