@@ -135,10 +135,12 @@
 <br/>
 
 <div>
-    <img align="left" width=433px src="https://github-readme-stats.vercel.app/api?username=Junhui0u0&show_icons=true&theme=gruvbox"> 
-    <a href="https://solved.ac/wnsgml7479">  
+    <img width=433px src="https://github-readme-stats.vercel.app/api?username=Junhui0u0&show_icons=true&theme=gruvbox"> 
+    <!--
+	<a href="https://solved.ac/wnsgml7479">  
       <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsgml7479">
     </a>
+     -->
 </div><br/><br/>
 
 
