@@ -9,7 +9,7 @@
 <div>
 <table>
     <tr>
-        <th rowspan="11">🌱 Backend</th>
+        <th rowspan="8">🌱 Backend</th>
         <td>Language</td>
         <td>
             <img src="https://img.shields.io/badge/Java 11-007396?style=flat-square&logo=Java&logoColor=white"/>
@@ -30,36 +30,11 @@
         </td>
     </tr>
     <tr>
-        <td>View Template</td>
-        <td>
-            <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white"/>
-        </td>
-    </tr>
-    <tr>
         <td>Authorization</td>
         <td>
             <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring Security&logoColor=white"/>
             <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON Web Tokens&logoColor=white"/>
             <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-        </td>
-    </tr>
-    <tr>
-        <td>API Documentation</td>
-        <td>
-            <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/>    
-        </td>
-    </tr>
-    <tr>
-        <td>Database</td>
-        <td>
-            <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
-        </td>
-    </tr>
-	<tr>
-        <td>Container</td>
-        <td>
-            <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
         </td>
     </tr>
 	<tr>
@@ -70,11 +45,18 @@
         </td>
     </tr>
 	<tr>
-        <td>Build</td>
+        <td>Database</td>
         <td>
-            <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/>
+            <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
         </td>
-	</tr>
+   	</tr>
+	<tr>
+        <td>Container</td>
+        <td>
+            <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+        </td>
+    </tr>
   <tr>
         <td>Etc</td>
         <td>
@@ -83,9 +65,10 @@
         </td>
 	</tr>
 	<tr>
-        <th rowspan="4">👨‍👩‍👦‍👦 Collaboration</th>
-        <td>API Test</td>
+        <th rowspan="3">👨‍👩‍👦‍👦 Collaboration</th>
+        <td>API</td>
         <td>
+	    <img src="https://img.shields.io/badge/Swagger-63CC63?style=flat-square&logo=Swagger&logoColor=white"/>
             <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
         </td>
     </tr>
@@ -95,13 +78,6 @@
             <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
             <img src="https://img.shields.io/badge/Google Meet-00897B?style=flat-square&logo=Google Meet&logoColor=white"/>
 	          <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
-        </td>
-    </tr>
-	<tr>
-        <td>Version Control</td>
-        <td>
-            <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-            <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
         </td>
     </tr>
 	<tr>
@@ -124,18 +100,12 @@
             <img src="https://img.shields.io/badge/Certificate Manager-569A31?style=flat-square&logo=Amazon AWS&logoColor=white"/>
         </td>
     </tr>
-    <tr>
-        <th>🏆 Problem Solving (Algorithm)</th>
-        <td colspan="2">
-            <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&&logoColor=white"/>
-        </td>
-    </tr>
 </table>	
 </div>
 <br/>
 
 <div>
-    <img width=433px src="https://github-readme-stats.vercel.app/api?username=Junhui0u0&show_icons=true&theme=gruvbox"> 
+    <img width=335px src="https://github-readme-stats.vercel.app/api?username=Junhui0u0&show_icons=true&theme=gruvbox"> 
     <!--
 	<a href="https://solved.ac/wnsgml7479">  
       <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsgml7479">
